@@ -40,3 +40,9 @@ Ritik Saini
 # youtube-downloader
 To download any video which is on youtube .
 >>>>>>> 8f16cb17cbb9736c67b9d6c81a10afcf02a87f4d
+
+## Internship Details
+
+- Name: Ritik Saini
+- Intern ID: CITS4562
+- Organization: CODTECH
